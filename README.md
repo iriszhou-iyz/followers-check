@@ -13,8 +13,13 @@ now, wait for your data to download. you will be notified through email when it'
 ### step 2: clone the repository
 git clone https://github.com/iriszhou-iyz/followers-check.git
 
-### step 3: drag & drop
-- unzip the data folder
+### step 3: install requirements
+in your terminal, run:
+- cd path/to/repository
+- pip install -r requirements.txt
+
+### step 4: drag & drop
+- unzip your instagram data folder
 - drag and drop the followers_and_following folder into the repository.
 - the repository should now look like:  
   followers_and_following  
@@ -28,3 +33,4 @@ git clone https://github.com/iriszhou-iyz/followers-check.git
   src  
   |_ insta-follow-check.py  
   README.md  
+  requirements.txt
