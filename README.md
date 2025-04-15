@@ -16,15 +16,15 @@ git clone https://github.com/iriszhou-iyz/followers-check.git
 ### step 3: drag & drop
 - unzip the data folder
 - drag and drop the followers_and_following folder into the repository.
-- the repository should now look like: 
-  followers_and_following 
-  |_ followers_1.html 
-  |_ following.html 
-  |_ ... other files from instagram 
-  out 
-  |_ mutuals.txt 
-  |_ not_following_you_back.txt 
-  |_ you_dont_follow_back.txt 
-  src 
-  |_ insta-follow-check.py 
-  README.md 
+- the repository should now look like:  
+  followers_and_following  
+  |_ followers_1.html  
+  |_ following.html  
+  |_ ... other files from instagram  
+  out  
+  |_ mutuals.txt  
+  |_ not_following_you_back.txt  
+  |_ you_dont_follow_back.txt  
+  src  
+  |_ insta-follow-check.py  
+  README.md  
